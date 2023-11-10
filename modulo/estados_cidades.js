@@ -22494,6 +22494,5 @@ var estadosCidades = {
     ]
 };
 
-module.exports=(
-   estadosCidades
-);
+
+module.exports={estadosCidades}
